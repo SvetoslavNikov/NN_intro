@@ -1,0 +1,12 @@
+jupyter
+jupyterlab
+notebook
+ipykernel
+ipython
+numpy
+matplotlib
+graphviz
+scikit-learn
+scipy
+ipywidgets
+torch
